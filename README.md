@@ -27,3 +27,7 @@ Green zones
 RP hubs
 
 Perfect for any server looking to enforce peaceful zones with minimal overhead.
+
+Replace the ones i have preset unless you would like to keep them!
+
+Discord ~ rngwr1ght
